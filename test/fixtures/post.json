@@ -1,0 +1,218 @@
+{
+  "data": {
+    "posts": {
+      "data": [
+        {
+          "id": "ptjY6Vmu4lbzk9B4FgPO",
+          "image": "https://img.dummyapi.io/photo-1568480541687-16c2f73eea4c.jpg",
+          "likes": 12,
+          "link": null,
+          "publishDate": "Fri May 22 2020 06:33:02 GMT+0000 (Coordinated Universal Time)",
+          "tags": [
+            "dog",
+            "beach",
+            "shoreline"
+          ],
+          "text": "Gratitude short-coated tan dog on seashore",
+          "owner": {
+            "id": "mCynCk9ntQGzX9uxgqDx",
+            "title": "mr",
+            "firstName": "Leevi",
+            "lastName": "Savela",
+            "email": "leevi.savela@example.com",
+            "picture": "https://randomuser.me/api/portraits/men/67.jpg"
+          }
+        },
+        {
+          "id": "2tOsDzbDHVUKxItKon1w",
+          "image": "https://img.dummyapi.io/photo-1517884467367-ac2e21e46d0b.jpg",
+          "likes": 43,
+          "link": null,
+          "publishDate": "Fri May 22 2020 03:10:54 GMT+0000 (Coordinated Universal Time)",
+          "tags": [
+            "pet",
+            "canine",
+            "grey"
+          ],
+          "text": "@adventure.yuki peekaboo adult short-coated black dog selective focus photography",
+          "owner": {
+            "id": "5aZRSdkcBOM6j3lkWEoP",
+            "title": "ms",
+            "firstName": "Lilja",
+            "lastName": "Lampinen",
+            "email": "lilja.lampinen@example.com",
+            "picture": "https://randomuser.me/api/portraits/women/50.jpg"
+          }
+        },
+        {
+          "id": "xC6wSox6Se58XMOIW5VY",
+          "image": "https://img.dummyapi.io/photo-1548658146-f142deadf8f7.jpg",
+          "likes": 92,
+          "link": "https://www.danlincoln.com",
+          "publishDate": "Thu May 21 2020 22:15:26 GMT+0000 (Coordinated Universal Time)",
+          "tags": [
+            "dog",
+            "grey",
+            "puppy"
+          ],
+          "text": "front view of black and white puppy sitting on brown sofa",
+          "owner": {
+            "id": "IBeNBzh2TC0G3uNJTxfs",
+            "title": "mrs",
+            "firstName": "Angelica",
+            "lastName": "Roussel",
+            "email": "angelica.roussel@example.com",
+            "picture": "https://randomuser.me/api/portraits/women/53.jpg"
+          }
+        },
+        {
+          "id": "LfncXUomey78DvkFY3Ma",
+          "image": "https://img.dummyapi.io/photo-1535008652995-e95986556e32.jpg",
+          "likes": 15,
+          "link": "https://www.instagram.com/takemeoutphotography/",
+          "publishDate": "Thu May 21 2020 15:53:26 GMT+0000 (Coordinated Universal Time)",
+          "tags": [
+            "human",
+            "ocean",
+            "nature"
+          ],
+          "text": "Random man walking with his dogs man and dogs on the seashore",
+          "owner": {
+            "id": "b7rf3uChfwFsOWoUB686",
+            "title": "miss",
+            "firstName": "Cléa",
+            "lastName": "Dubois",
+            "email": "clea.dubois@example.com",
+            "picture": "https://randomuser.me/api/portraits/women/11.jpg"
+          }
+        },
+        {
+          "id": "0OiV6pelYdA8Y5k4zzt8",
+          "image": "https://img.dummyapi.io/photo-1580734075803-ac9cdb54fb03.jpg",
+          "likes": 3,
+          "link": null,
+          "publishDate": "Thu May 21 2020 15:15:02 GMT+0000 (Coordinated Universal Time)",
+          "tags": [
+            "dog",
+            "canine",
+            "animal"
+          ],
+          "text": "Majestic looking dog on a lake white and brown short coated dog on snow covered ground during daytime",
+          "owner": {
+            "id": "uABrZcuHGJnanoxlt53c",
+            "title": "mr",
+            "firstName": "Elliot",
+            "lastName": "Walker",
+            "email": "elliot.walker@example.com",
+            "picture": "https://randomuser.me/api/portraits/men/53.jpg"
+          }
+        },
+        {
+          "id": "R3J9hGpoqQ7JeHsWJxbp",
+          "image": "https://img.dummyapi.io/photo-1558556249-076e42967a24.jpg",
+          "likes": 27,
+          "link": null,
+          "publishDate": "Thu May 21 2020 07:03:58 GMT+0000 (Coordinated Universal Time)",
+          "tags": [
+            "dog",
+            "animal",
+            "canine"
+          ],
+          "text": "two puppies next to each other",
+          "owner": {
+            "id": "EiYwv4wPYXfKgEKyTUyN",
+            "title": "mr",
+            "firstName": "Sigmund",
+            "lastName": "Myran",
+            "email": "sigmund.myran@example.com",
+            "picture": "https://randomuser.me/api/portraits/men/61.jpg"
+          }
+        },
+        {
+          "id": "HmJ0SvFnl8FY84bcKnzq",
+          "image": "https://img.dummyapi.io/photo-1556526588-a0bd9b5a42c3.jpg",
+          "likes": 54,
+          "link": null,
+          "publishDate": "Thu May 21 2020 02:10:33 GMT+0000 (Coordinated Universal Time)",
+          "tags": [
+            "canine",
+            "dog",
+            "pet"
+          ],
+          "text": "two white dogs",
+          "owner": {
+            "id": "uABrZcuHGJnanoxlt53c",
+            "title": "mr",
+            "firstName": "Elliot",
+            "lastName": "Walker",
+            "email": "elliot.walker@example.com",
+            "picture": "https://randomuser.me/api/portraits/men/53.jpg"
+          }
+        },
+        {
+          "id": "F5AoCjgcUgDye9uX22jA",
+          "image": "https://img.dummyapi.io/photo-1575495679620-2ff225c75d5a.jpg",
+          "likes": 20,
+          "link": null,
+          "publishDate": "Wed May 20 2020 21:49:33 GMT+0000 (Coordinated Universal Time)",
+          "tags": [
+            "pet",
+            "animal",
+            "mammal"
+          ],
+          "text": "A picture of my golden doodle, Yogi Bear white dog",
+          "owner": {
+            "id": "q2PJeghNP3z6PYLbkJlq",
+            "title": "mr",
+            "firstName": "Eckard",
+            "lastName": "Degner",
+            "email": "eckard.degner@example.com",
+            "picture": "https://randomuser.me/api/portraits/men/41.jpg"
+          }
+        },
+        {
+          "id": "GuAuBwKRGVYCr3cxyp6r",
+          "image": "https://img.dummyapi.io/photo-1549937334-e94f33e69787.jpg",
+          "likes": 5,
+          "link": null,
+          "publishDate": "Wed May 20 2020 21:00:40 GMT+0000 (Coordinated Universal Time)",
+          "tags": [
+            "dog",
+            "pet",
+            "mammal"
+          ],
+          "text": "long-coated brown dog",
+          "owner": {
+            "id": "7DbXNPWlNDR4QYVvFZjr",
+            "title": "mr",
+            "firstName": "Evan",
+            "lastName": "Carlson",
+            "email": "evan.carlson@example.com",
+            "picture": "https://randomuser.me/api/portraits/men/80.jpg"
+          }
+        },
+        {
+          "id": "43cuR7ZUPkwQp8GU7u3f",
+          "image": "https://img.dummyapi.io/photo-1564849444446-f876dcef378e.jpg",
+          "likes": 40,
+          "link": null,
+          "publishDate": "Wed May 20 2020 18:51:23 GMT+0000 (Coordinated Universal Time)",
+          "tags": [
+            "plant",
+            "mammal",
+            "pet"
+          ],
+          "text": "A feral cat short-fur gray and orange cat on green grass during daytime",
+          "owner": {
+            "id": "6wy6UNkZueJfIUfq88d5",
+            "title": "miss",
+            "firstName": "Melanie",
+            "lastName": "Pilz",
+            "email": "melanie.pilz@example.com",
+            "picture": "https://randomuser.me/api/portraits/women/32.jpg"
+          }
+        }
+      ]
+    }
+  }
+}
